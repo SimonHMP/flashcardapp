@@ -1,0 +1,17 @@
+
+
+body {
+    background:yellow;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+  }
+
+button {
+    size: 250px;
+}
+ 
+
+
+#deleteButton {
+    text-align: right;
+}
